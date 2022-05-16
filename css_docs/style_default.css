@@ -1,4 +1,43 @@
+/* corpo do html */
 body {
     font-family: Freizeit;
-    background-image: url(/./assets/background_big.jpg);
+    background-color: #5a189a;
+}
+
+/* cabeçalho */
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.subtitle{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+/* árvore de links */
+.tree{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+li{
+    padding: 1em;
+}
+
+a{
+    background-color: #ffffff;
+}
+/* tudo relacionado ao rodapé */
+footer{
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #10002b;
+    padding: 1em;
 }
