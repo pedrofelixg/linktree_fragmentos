@@ -7,9 +7,10 @@ body {
 /* cabeçalho */
 h1{
     text-align: center;
-    font-size: 50px;
+    font-size: 60px;
     font-weight: bold;
     color: #ffffff;
+    padding: 15px;
 }
 
 .subtitle{
@@ -17,21 +18,45 @@ h1{
     font-size: 20px;
     font-weight: bold;
     color: #ffffff;
+    padding: 5px;
 }
 
 /* árvore de links */
 .tree{
     text-transform: uppercase;
     text-align: center;
+    padding-left: 3em;
+    padding-right: 3em;
 }
 
 li{
     padding: 1em;
-}
-
-a{
+    font-size: 25px;
+    border-radius: 15px;
+    border-color: #000000;
+    border-width: 2px;
+    border-style: double;
+    margin: 35px 0;
+    padding: 10px;
     background-color: #ffffff;
 }
+
+li:hover{
+    background-color: #eb8484;
+    border-color: #f72525;
+    box-shadow: 2px 5px #000000;
+}
+
+li:hover a{
+    color: #ffffff;
+}
+
+nav a{
+    color: #10002b;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 /* tudo relacionado ao rodapé */
 footer{
     font-weight: bold;
@@ -40,4 +65,8 @@ footer{
     color: #ffffff;
     background-color: #10002b;
     padding: 1em;
+}
+
+footer p{
+    margin-top: 15px;
 }
