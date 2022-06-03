@@ -9,13 +9,13 @@ trata-se de um clone do Link.tree site que facilita a vida de criadores de conte
 no instagram ao trazer uma árvore de links que direcionam as pessoas que visitam o
 perfil.
 
-tecnologias utilizadas:
-    - **HTML** (em toda construção de navegação);
+tecnologias utilizadas:<br>
+    - **HTML** (em toda construção de navegação);<br>
     - **CSS** (para o design) {
         desafio para mim nessa construção é tornar o desgin mais responsivo que possa
         ser utilizada em telas de smartphones e não simplesmente no PC
-    };
+    };<br>
     - **Javascript** (no primeiro momento não, caso venha a ser usado colocarei infos
-    no read.me);
+    no readme);<br>
 
 ----------------------------------------------------------------------------------------
