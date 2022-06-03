@@ -90,4 +90,40 @@ footer{
 
 footer p{
     margin-top: 15px;
+    font-size: 14px;
+}
+
+footer p a{
+    text-decoration: none;
+    color: #fff;
+}
+
+footer i{
+    color: #fff;
+}
+/* botão de whatsapp -> Jefferson Savian https://codepen.io/savian/pen/pVLejm */
+
+.whatsapp-button{
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 2px #888;
+    z-index: 1000;
+    text-decoration: none;
+}
+
+.whatsapp-button:hover{
+    transform: translateY(0px);
+    animation: pulse 2s ease-in-out;
+}
+
+.whatsapp-button i{
+    color: #fff;
 }
