@@ -1,5 +1,7 @@
-#created by Pedro Gonçalves
-instagram: [@blog.fragmentos](https://www.instagram.com/blog.fragmentos/)
+# LinkTree Fragmentos
+
+## created by Pedro Gonçalves<br>
+instagram: [@blog.fragmentos](https://www.instagram.com/blog.fragmentos/)<br>
 Linkedin: [Linkedin](https://www.linkedin.com/in/pedro-gon%C3%A7alves-522a6622a/git)
 
 ----------------------------------------------------------------------------------------
@@ -8,12 +10,12 @@ no instagram ao trazer uma árvore de links que direcionam as pessoas que visita
 perfil.
 
 tecnologias utilizadas:
-    - HTML (em toda construção de navegação);
-    - CSS (para o design) {
+    - **HTML** (em toda construção de navegação);
+    - **CSS** (para o design) {
         desafio para mim nessa construção é tornar o desgin mais responsivo que possa
         ser utilizada em telas de smartphones e não simplesmente no PC
     };
-    - Javascript (no primeiro momento não, caso venha a ser usado colocarei infos
+    - **Javascript** (no primeiro momento não, caso venha a ser usado colocarei infos
     no read.me);
 
 ----------------------------------------------------------------------------------------
