@@ -1,6 +1,6 @@
 /* corpo do html */
 body {
-    font-family: Freizeit;
+    font-family: Sora;
     background-color: #c8b6ff;
 }
 
@@ -11,20 +11,20 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 8em;
 }
 
 h1{
     text-align: center;
-    font-size: 60px;
+    font-size: 3rem;
     font-weight: bold;
     color: #ffffff;
     padding: 15px;
-    text-shadow: #000000 2px 3px;
 }
 
 .subtitle{
     text-align: center;
-    font-size: 25px;
+    font-size: 1.5rem;
     font-weight: bold;
     color: #ffffff;
     padding: 10px 0;
@@ -34,17 +34,14 @@ h1{
 .tree{
     text-transform: uppercase;
     text-align: center;
-    padding-left: 3em;
-    padding-right: 3em;
+    padding-left: 5em;
+    padding-right: 5em;
 }
 
 li{
     padding: 1em;
-    font-size: 25px;
+    font-size: 1.4rem;
     border-radius: 15px;
-    border-color: #000000;
-    border-width: 2px;
-    border-style: double;
     margin: 35px 0;
     padding: 10px;
     background-color: #ffffff;
@@ -83,9 +80,9 @@ footer{
     font-weight: bold;
     text-align: center;
     text-transform: uppercase;
-    color: #ffffff;
-    background-color: #10002b;
+    color: #10002b;
     padding: 1em;
+    border-top: #10002b 1px solid;
 }
 
 footer p{
@@ -95,11 +92,16 @@ footer p{
 
 footer p a{
     text-decoration: none;
-    color: #fff;
+    color: #10002b;
 }
 
-footer i{
-    color: #fff;
+footer img{
+    width: 2.5em;
+    margin: auto;
+}
+
+.git-hub p{
+    margin-top: 0;
 }
 /* botão de whatsapp -> Jefferson Savian https://codepen.io/savian/pen/pVLejm */
 
